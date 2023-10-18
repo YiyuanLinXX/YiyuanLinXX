@@ -16,7 +16,6 @@ My research focuses on Robotics, Autonomous Systems, AI, and Plant Disease Detec
 📫 How to reach me:
 - ​:e-mail: My work and school email: yl3663@cornell.edu
 - ​:e-mail: My personal email: yiyuanlin47@gmail.com
-- Twitter: @YiyuanLIN_ [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40YiyuanLIN_)](https://twitter.com/YiyuanLIN_)
 
 <!---
 YiyuanLinXX/YiyuanLinXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
