@@ -4,6 +4,10 @@ I’m Yiyuan Lin, currently a Ph.D. student majoring in Electrical and Computer 
 
 My research focuses on Robotics, Autonomous Systems, AI, and Plant Disease Detection.
 
+<!---
+- 💞️ I’m looking to collaborate on ...
+--->
+
 ​:newspaper: Recent News:
 - :mortar_board: I started my Ph.D. under the supervision of Prof. Yu Jiang at Cornell University (2023/08 - present)
 - :mortar_board: I got my B.Eng degree at Zhejiang University (2019/09 - 2023/06)
@@ -19,6 +23,3 @@ YiyuanLinXX/YiyuanLinXX is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
