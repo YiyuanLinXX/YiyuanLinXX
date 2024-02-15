@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m Yiyuan Lin, currently a Ph.D. student majoring in Electrical and Computer Engineering at Cornell University. I am fortunate to be mentored by Dr. Yu Jiang at CAIR Lab.
 
-My research focuses on Robotics, Autonomous Systems, AI, and Plant Disease Detection.
+My research focuses on Robotics, Autonomous Systems, AI, High Throughput Phenotyping and Plant Disease Detection.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
