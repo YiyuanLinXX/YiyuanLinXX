@@ -14,9 +14,9 @@ My research focuses on Robotics, Autonomous Systems, AI, High Throughput Phenoty
 - ​:microscope: I finished my RA internship at FAST Lab, Zhejiang University (2022/04 - 2023/04)
 
 📫 How to reach me:
-- ​:e-mail: My work and school email: yl3663@cornell.edu
-- ​:e-mail: My personal email: yiyuanlin47@gmail.com
-
+- ​📧 My work and school email: yl3663@cornell.edu
+- ​📧 My personal email: yiyuanlin47@gmail.com
+ 
 <!---
 YiyuanLinXX/YiyuanLinXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
